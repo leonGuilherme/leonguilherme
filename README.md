@@ -1,10 +1,5 @@
 ### Oii, eu sou Guilherme Leon 👋
 
-- 🔭 looking for a job
-- 🐍 I’m currently learning python 
-- 📫 How to reach me: sguilhermeleon@gmail.com
-- 😄 Pronouns: ele/dele
-# 💫 About Me:
 <br>- 🔭 looking for a job<br>- 🐍 I’m currently learning python <br>- 📫 How to reach me: sguilhermeleon@gmail.com<br>- 😄 Pronouns: ele/dele<br>
 
 
